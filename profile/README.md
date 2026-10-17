@@ -11,6 +11,9 @@ We are building toward a **Super Fast Robot Agent OS**: a way for agents to find
 
 Our first public project is **Robot Skill Hub**.
 
+For agents: [machine-readable contract](https://hub.superfastrobotics.com/agent.json) | [JSON catalog](https://hub.superfastrobotics.com/catalog/v1/index.json) | [reviewed task findings](https://hub.superfastrobotics.com/catalog/v1/memories.json). Discovery is public and requires no account. Preparation runs locally; sharing findings requires an authorized project scope.
+
+
 ## Robot Skill Hub
 
 Reusable robot skills with pinned sources, explicit compatibility and evidence you can inspect. Search the public catalog, prepare a skill in your project, and contribute useful fixes through a reviewed pull request.
