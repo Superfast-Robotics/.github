@@ -15,13 +15,13 @@ Our first public project is **Robot Skill Hub**.
 
 Reusable robot skills with pinned sources, explicit compatibility and evidence you can inspect. Search the public catalog, prepare a skill in your project, and contribute useful fixes through a reviewed pull request.
 
-[**Explore the catalog →**](https://superfastrobotics.com/) · [**View the repository →**](https://github.com/Superfast-Robotics/robot-skill-hub)
+[**Explore Robot Skill Hub →**](https://hub.superfastrobotics.com/) · [**View the repository →**](https://github.com/Superfast-Robotics/robot-skill-hub) · [Company website](https://superfastrobotics.com/)
 
 | Discover | Understand | Build on it |
 | :--- | :--- | :--- |
 | Find code by task, runtime and robot. | Inspect exact sources, licenses and verification evidence. | Prepare pinned code; share permitted fixes for review. |
 
-The first preview supports discovery and source preparation for ManiSkill Panda **PickCube-v1** and **StackCube-v1** recipes. The simulation target is Linux x86_64, Python 3.10 and ManiSkill 3.0.0b22. Actual simulator task execution is **`not_run` / 미검증**.
+Find ManiSkill recipes for **Panda**, **Panda Stick**, **xArm6 Robotiq** and **SO100**, starting with Panda **PickCube-v1** and **StackCube-v1**. Each catalog record includes its environment requirements and execution evidence.
 
 ## Start with your agent
 
@@ -33,7 +33,7 @@ npx skills add Superfast-Robotics/robot-skill-hub --skill find-robot-skills -a c
 npx skills add Superfast-Robotics/robot-skill-hub --skill find-robot-skills -a claude-code
 ```
 
-[Agent quickstart](https://github.com/Superfast-Robotics/robot-skill-hub/blob/main/docs/agent-quickstart.md) · [Compatibility](https://github.com/Superfast-Robotics/robot-skill-hub/blob/main/docs/compatibility.md) · [Contribute a fix](https://github.com/Superfast-Robotics/robot-skill-hub/blob/main/docs/contributing.md) · [Verified and pending work](https://github.com/Superfast-Robotics/robot-skill-hub/blob/main/docs/verification.md)
+[Agent quickstart](https://github.com/Superfast-Robotics/robot-skill-hub/blob/main/docs/agent-quickstart.md) · [Compatibility](https://github.com/Superfast-Robotics/robot-skill-hub/blob/main/docs/compatibility.md) · [Contribute a fix](https://github.com/Superfast-Robotics/robot-skill-hub/blob/main/docs/contributing.md)
 
 ---
 
